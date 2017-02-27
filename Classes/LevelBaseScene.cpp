@@ -1,7 +1,6 @@
 ﻿#include "LevelBaseScene.h"
 #include "WordAnimal.h"
-#include "PopupLayer.h"
-#include "define.h"
+//#include "define.h"
 bool LevelBaseScene::mute = false;
 int randomNum = 0;
 void generateValidFile();
